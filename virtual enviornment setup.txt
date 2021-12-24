@@ -1,0 +1,34 @@
+########################################################################################################################
+########################################################################################################################
+# With anaconda create enviornment called hida with python 3.7
+########################################################################################################################
+# Check virtual enviornments currently have
+conda info --envs
+
+# create conda virtual env
+conda create -n hidaenv python=3.7 flask
+
+# start enviornment
+conda activate hidaenv
+
+# open python check if verions match
+python
+
+conda install pyodbc
+conda install pandas
+conda install Flask-SQLAlchemy
+conda install comtypes
+conda install xlwings
+conda install colorama
+conda install WTForms
+conda install Flask-WTF
+conda install json
+
+# shut venv off
+deactivate
+
+# remove virtual env
+conda remove --name hidaenv --all
+
+# check if its gone
+conda info --envs
