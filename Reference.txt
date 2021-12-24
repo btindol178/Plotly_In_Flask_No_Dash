@@ -1,0 +1,25 @@
+https://stackoverflow.com/questions/63616028/how-to-integrate-plotly-express-chart-to-flask-app
+https://www.google.com/search?q=render+plotly+plot+in+render_template+flask&rlz=1C1GCEB_enUS929US929&oq=render+plotly+plot+in+render_template+flask&aqs=chrome..69i57j33i160l3j33i299l2.14230j1j7&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/50328615/plotly-offline-charts-with-dropdown-in-flask
+https://stackoverflow.com/questions/61869715/embed-plotly-dash-into-flask-application
+https://stackoverflow.com/questions/61874823/plotly-in-expected-flask-window
+https://stackoverflow.com/questions/57639371/plotly-scatter-isnt-displayed-by-flask
+
+
+
+https://github.com/toddbirchard/plotlydash-flask-tutorial
+
+
+https://github.com/Nadiantara/flask_covid_dashboard
+
+
+https://github.com/andrewpaster/world_bank_api_dashboard/blob/master/worldbank.py#L1
+
+
+
+# HOW TO HELP!!!!!!!!!
+https://www.youtube.com/watch?v=B97qWOUvlnU
+
+https://github.com/Princekrampah/FlaskPlotlyProject
+
+https://stackoverflow.com/questions/50120694/get-individual-graphs-from-plotly-using-flask-and-python
